@@ -62,13 +62,17 @@ Author:Denis Samardjiev
 /* =Common Styles
 -------------------------------------------------------------- */
 body {
-	background:#fff;
-	font:normal 14px 'Open Sans', sans-serif;
-	font-weight:300;
-	color:#616161;
-	height:100%;
-	line-height:1.6;
-	min-height:100% !important;
+    background: transparent;
+    background-image: url(../images/CENSNTA_grayscale.png);
+    font: normal 14px 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #616161;
+    height: 100%;
+    line-height: 1.6;
+    min-height: 100% !important;
+    /* background-size: 35% 40%; */
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 html {
