@@ -55,6 +55,10 @@ Author:Denis Samardjiev
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700%7CRaleway:200,300,400,700');
 
 
+.menuStar {
+	color:#FFC107;
+}
+
 /* =Common Styles
 -------------------------------------------------------------- */
 body {
